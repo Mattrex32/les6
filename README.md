@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 req1: R
@@ -15,3 +15,5 @@ req1: R
 res1:good
 
 req2: A
+
+res2: bad
